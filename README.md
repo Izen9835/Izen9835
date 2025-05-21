@@ -18,7 +18,9 @@ I am a Year 1 Computer Engineering student at the National University of Singapo
 ### 🤖 Robotics & Embedded Systems
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/49abcba6-f746-4325-94bd-5d098405c5e7" width="130" alt="Profile Image" style="margin-right: 10px;"/>
+  <a href="https://github.com/cde2310grp6">
+    <img src="https://github.com/user-attachments/assets/49abcba6-f746-4325-94bd-5d098405c5e7" width="130" alt="Profile Image" style="margin-right: 10px;"/>
+  </a>
   <a href="https://github.com/cde2310grp6/mission_control">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cde2310grp6&repo=mission_control" alt="Mission Control Repo" style="margin-right: 10px;"/>
   </a>
