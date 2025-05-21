@@ -61,5 +61,6 @@ I am a Year 1 Computer Engineering student at the National University of Singapo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izen9835&layout=compact&hide=html,css)
 
 ---
+Pretty graphics generated using [anuraghazra\github-readme-stats](https://github.com/anuraghazra/github-readme-stats) !
 
 
